@@ -13,6 +13,7 @@
 		8416210527748200005960AD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8416210327748200005960AD /* Main.storyboard */; };
 		8416210727748201005960AD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8416210627748201005960AD /* Assets.xcassets */; };
 		8416210A27748201005960AD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8416210827748201005960AD /* LaunchScreen.storyboard */; };
+		8416211427749361005960AD /* TextViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8416211327749361005960AD /* TextViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		8416210627748201005960AD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8416210927748201005960AD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8416210B27748201005960AD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8416211327749361005960AD /* TextViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				841620FD27748200005960AD /* AppDelegate.swift */,
 				841620FF27748200005960AD /* SceneDelegate.swift */,
 				8416210127748200005960AD /* ViewController.swift */,
+				8416211327749361005960AD /* TextViewController.swift */,
 				8416210327748200005960AD /* Main.storyboard */,
 				8416210627748201005960AD /* Assets.xcassets */,
 				8416210827748201005960AD /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				8416210227748200005960AD /* ViewController.swift in Sources */,
 				841620FE27748200005960AD /* AppDelegate.swift in Sources */,
 				8416210027748200005960AD /* SceneDelegate.swift in Sources */,
+				8416211427749361005960AD /* TextViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
